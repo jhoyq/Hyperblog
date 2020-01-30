@@ -1,11 +1,3 @@
 1 Primer cambio en git 
 
-2 Segundo cambio en git 
-
-3 Tercer cambio en git
-
-4 Cuarto cambi en git 
-
-5 quinto cambio en git 
-
-6 sexto cambio en git 
+2 cambio en git regresando en el tiempo a la primera version
